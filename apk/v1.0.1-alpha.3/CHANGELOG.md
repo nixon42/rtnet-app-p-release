@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.1-alpha.3] - YYYY-MM-dd
+## [1.0.1-alpha.3] - 2023-09-13
 
 ### Added
 - 
