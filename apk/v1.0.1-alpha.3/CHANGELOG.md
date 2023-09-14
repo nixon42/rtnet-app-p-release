@@ -6,7 +6,7 @@
 - 
 
 ### Changed
-- Tertagih Bisa ditagih mulai 3 hari sebelum tempo [Done??]
+- Tertagih Bisa ditagih mulai 3 hari sebelum tempo [Done]
 
 ### Fixed
 - Fix Search customer [Done]
