@@ -20,3 +20,6 @@
 
 ## V1.2.0-alpha.3
 [V1.2.0-alpha.3](https://github.com/nixon42/rtnet-app-p-release/raw/main/apk/v1.2.0-alpha.3/app-release.apk)
+
+## V1.2.1-alpha.3
+[V1.2.0-alpha.3](https://github.com/nixon42/rtnet-app-p-release/raw/main/apk/v1.2.1-alpha.3/app-release.apk)
